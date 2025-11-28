@@ -58,10 +58,4 @@ or a pull request with a short description of the change.
 
 **License:**
 
-This project is provided under the MIT License. See `LICENSE` if included,
-otherwise consider this a permissive sample project for learning and demos.
-
----
-
-If you'd like, I can add a minimal `LICENSE` file, examples, or a live-server
-script for convenience. What would you prefer next?
+This project is provided under the MIT License. See `LICENSE` file for more detail
